@@ -182,6 +182,39 @@ main .main-right-section div p{
     font-size: 20px;
 }
 
+/*
+AQUÍ COMIENZA EL CSS DEL MAIN DE SERVICIOS
+*/
+
+.servicios-container-principal {
+    width: auto;
+}
+
+.servicios-container-principal .div-texto-servicios{
+    margin-bottom: 50px;
+    text-align: center;
+    font-size: 40x;
+}
+
+.servicios-container-principal table .tabla-fila td{
+    width: 500px;
+    height: 350px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.servicios-container-principal table .tabla-fila #odontologia:hover{
+    background-image: url('./Imagenes/Odontologia-gral-1.jpg');
+    opacity: 0.6;
+    width: auto;
+}
+
+.servicios-container-principal table .tabla-fila #ortodoncia:hover{
+    background-image: url('./Imagenes/odontopediatria.png');
+    opacity: 0.6;
+    width: 500px;
+    height: 300px;
+}
 
 
 
