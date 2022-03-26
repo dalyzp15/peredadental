@@ -1,0 +1,36 @@
+/* CSS HEX */
+--java: #13b0db;
+--swiss-coffee: #e3d8d6;
+--bermuda: #85c9d9;
+--burning-sand: #e09380;
+--tuna: #373738;
+--chestnut: #b34e4d;
+--cashmere: #e5b1a2;
+--can-can: #d49299;
+--japonica: #cf7759;
+
+
+/* SCSS HEX */
+$java: #13b0db;
+$swiss-coffee: #e3d8d6;
+$bermuda: #85c9d9;
+$burning-sand: #e09380;
+$tuna: #373738;
+$chestnut: #b34e4d;
+$cashmere: #e5b1a2;
+$can-can: #d49299;
+$japonica: #cf7759;
+
+
+/* SCSS RGB */
+--java: rgba(19,176,219,1);
+--swiss-coffee: rgba(227,216,214,1);
+--bermuda: rgba(133,201,217,1);
+--burning-sand: rgba(224,147,128,1);
+--tuna: rgba(55,55,56,1);
+--chestnut: rgba(179,78,77,1);
+--cashmere: rgba(229,177,162,1);
+--can-can: rgba(212,146,153,1);
+--japonica: rgba(207,119,89,1);
+
+
