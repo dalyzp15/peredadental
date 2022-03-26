@@ -192,17 +192,28 @@ AQUÍ COMIENZA EL CSS DEL MAIN DE SERVICIOS
 
 .servicios-container-principal .div-texto-servicios{
     margin-bottom: 50px;
+    margin-top: 100px;
     text-align: center;
     font-size: 40x;
 }
 
 .servicios-container-principal table .tabla-fila td{
+    border: 1px solid gray;
+}
+
+.servicios-container-principal table .tabla-fila td{
     width: 500px;
-    height: 350px;
-    border: 1px solid black;
+    height: 600px;
     text-align: center;
 }
 
+.servicios-container-principal table .tabla-fila img{
+    width: 15%;
+    border: 1px solid black;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+/*
 .servicios-container-principal table .tabla-fila #odontologia:hover{
     background-image: url('./Imagenes/Odontologia-gral-1.jpg');
     opacity: 0.6;
@@ -215,6 +226,7 @@ AQUÍ COMIENZA EL CSS DEL MAIN DE SERVICIOS
     width: 500px;
     height: 300px;
 }
+*/
 
 
 
